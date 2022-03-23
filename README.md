@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Baptista</h1>
 <h3 align="center">I'm civil engineer from Brazil, specialized in Water Resources, and a future full-stack developer.</h3>
 
-- 🔭 I’m currently working on [a personal game project](https://github.com/deckade)
+- 🔭 I’m currently working on a private game project, where we're now prototyping a console written in python (using some libs: pygame and libtcod, mainly)
 
 - 🌱 I’m currently learning **the basics of CS and git**
 
