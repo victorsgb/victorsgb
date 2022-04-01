@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the basics of CS and git**
 
-- 📫 How to reach me **victorsgb@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/victorsgb/** and **victorsgb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
