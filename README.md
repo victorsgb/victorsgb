@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor Baptista</h1>
-<h3 align="center">I'm civil engineer from Brazil, specialized in Water Resources, and a future full-stack developer.</h3>
+<h3 align="center">I'm a future full-stack developer, with a bachelor in Civil Engineering.</h3>
 
 - 🔭 I’m currently working on a private game project, where we're now prototyping a console written in python (using some libs: pygame and libtcod, mainly)
 
-- 🌱 I’m currently learning **the basics of CS and git**
+- 🌱 I’m currently learning **the basics of Front-end developement (mainly HTML, CSS, JavaScript), the basics of Computer Science and git**
 
 - 📫 How to reach me **victorsgb@gmail.com**
 
