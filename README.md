@@ -24,17 +24,7 @@ Hello! 👋 This is Victor Baptista!
 
 ## Side projects
 
-1. 👨‍💻 [FoodExplorer - Ultimate Challenge of Rocketseat's Explorer Formation](https://github.com/victorsgb/food-explorer-frontend) ([Demo](https://food-explorer-frontend.netlify.app/)) - Status: **completed** ✔️
-
-2. 👨‍💻 Finance backend with support for multiple bank accounts and "purposes". The objective of this project is to display statements by bank account or by specific purpose. - Status: **under development** ⏳
-
-3. Game website inspired by Stone's SigmaGeek challenge (automata cells) - Status: **in development** ⏳
-
-4. Website clone of [Term](https://term.ooo/) - Status: **idea** 💡
-
-5. Game website that makes use of [leaflet.js](https://leafletjs.com/) - Status: **idea** 💡
-
-6. [RocketLeague](https://www.rocketleague.com/pt-br/)-inspired 2D game - Status: **in development** ⏳
+1. 👨‍💻 [FoodExplorer - Ultimate Challenge of Rocketseat's Explorer Formation](https://github.com/victorsgb/food-explorer-frontend) ([Demo](https://food-explorer-frontend.netlify.app/))
 
 ### Other information
 
@@ -91,16 +81,6 @@ Olá! 👋 Me chamo Victor Baptista!
 ## Projetos paralelos
 
 1. 👨‍💻 [FoodExplorer - desafio final da formação Explorer da Rocketseat](https://github.com/victorsgb/food-explorer-frontend) ([Demo](https://food-explorer-frontend.netlify.app/)) - Status: **concluído** ✔️
-
-2. 👨‍💻 Back-end de finanças com suporte para múltiplas contas bancárias e caixas. Para exibição de extrato financeiro por conta bancária ou por caixa (finalidade) específica. - Status: **em desenvolvimento** ⏳
-
-3. 👨‍💻 Website de game inspirado no desafio SigmaGeek da Stone (células autômatas) - Status: **em desenvolvimento** ⏳
-
-4. Website clone do [Termo](https://term.ooo/) - Status: **ideia** 💡
-
-5. Website de game que faz uso do [leaflet.js](https://leafletjs.com/) - Status: **idea** 💡
-
-6. Game em 2D inspirado no RocketLeague - Status: **em desenvolvimento** ⏳
 
 ### Outras informações
 
