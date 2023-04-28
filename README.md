@@ -24,7 +24,9 @@ Hello! 👋 This is Victor Baptista!
 
 ## Side projects
 
-1. 👨‍💻 [FoodExplorer - Ultimate Challenge of Rocketseat's Explorer Formation](https://github.com/victorsgb/food-explorer-frontend) ([Demo](https://food-explorer-frontend.netlify.app/))
+1. 👨‍💻 [Cellular Automata Game](https://cellular-automata-beryl.vercel.app/)
+
+2. 👨‍💻 [FoodExplorer - Ultimate Challenge of Rocketseat's Explorer Formation](https://github.com/victorsgb/food-explorer-frontend) ([Deploy](https://food-explorer-frontend.netlify.app/))
 
 ### Other information
 
@@ -80,7 +82,9 @@ Olá! 👋 Me chamo Victor Baptista!
 
 ## Projetos paralelos
 
-1. 👨‍💻 [FoodExplorer - desafio final da formação Explorer da Rocketseat](https://github.com/victorsgb/food-explorer-frontend) ([Demo](https://food-explorer-frontend.netlify.app/)) - Status: **concluído** ✔️
+1. 👨‍💻 [Jogo do Autômato Celular](https://cellular-automata-beryl.vercel.app/)
+
+2. 👨‍💻 [FoodExplorer - desafio final da formação Explorer da Rocketseat](https://github.com/victorsgb/food-explorer-frontend) ([Demo](https://food-explorer-frontend.netlify.app/)) - Status: **concluído** ✔️
 
 ### Outras informações
 
