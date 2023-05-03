@@ -10,11 +10,11 @@ Hello! 👋 This is Victor Baptista!
 
 ---
 
-**🔥 My current career goal is to be a junior software developer, either fullstack or backend**, which is more in line with my personal preferences. Contact me:
+**🔥 My current career goal is to be a junior software developer, either fullstack or frontend/backend**, which is more in line with my personal preferences. Contact me:
 
 - Via Email **victorsgb@gmail.com**
-- or talk to me at [linkedIn!](https://linkedin.com/in/victorsgb/)
-- or checkout my [CV!](/20230331-victor-cv.pdf)
+- or talk to me at **[linkedIn](https://linkedin.com/in/victorsgb/)**
+- or checkout my **[Curriculum Vitae](/20230331-victor-cv.pdf)**
 
 ---
 
@@ -24,9 +24,9 @@ Hello! 👋 This is Victor Baptista!
 
 ## Side projects
 
-1. 👨‍💻 [Cellular Automata Game](https://cellular-automata-beryl.vercel.app/)
+1. 👨‍💻 [Cellular Automaton Game](https://github.com/victorsgb/cellular-automata) ([Deploy](https://cellular-automata-beryl.vercel.app/)) - Status: **finished** ✔️
 
-2. 👨‍💻 [FoodExplorer - Ultimate Challenge of Rocketseat's Explorer Formation](https://github.com/victorsgb/food-explorer-frontend) ([Deploy](https://food-explorer-frontend.netlify.app/))
+2. 👨‍💻 [FoodExplorer - Ultimate Challenge of Rocketseat's Explorer Formation](https://github.com/victorsgb/food-explorer-frontend) ([Deploy](https://food-explorer-frontend.netlify.app/)) - Status: **finished** ✔️
 
 ### Other information
 
@@ -36,17 +36,19 @@ I am familiar with using some intermediate concepts like object-oriented program
 
 I have a bachelor's degree in civil engineering where I specialized in advanced Excel and have been using this tool for over 10 years. I have taught several courses in this field, both academically and professionally. My first contact with programming was with the Visual Basic For Applications language, which is built into Excel itself.
 
-- Specializing at the moment:
+Specializing at the moment:
 
-> 🌱 Next.js - documentation
-> 🌱 Node.js - Rocketseat's Ignite program
-> 🌱 Godot 4.0 - documentation and hunting material on the internet, as it is very recent material
-> 📚 Eloquent JavaScript by Marijn Haverbeke
-> 📚 ProGit, by Scott Chacon and Ben Straub
+- > 🌱 Next.js - documentation
+- > 🌱 Node.js - Rocketseat's Ignite program
+- > 📚 Eloquent JavaScript by Marijn Haverbeke
+- > 📚 ProGit, by Scott Chacon and Ben Straub
 
 ### My stack
 
 <p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="next" width="40" height="40"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
@@ -68,11 +70,11 @@ Olá! 👋 Me chamo Victor Baptista!
 
 ---
 
-✅ **Meu objetivo profissional do momento é atuar como desenvolvedor de software júnior, seja fullstack ou na área de back-end**, mais alinhada com minhas preferências. Entre em contato:
+✅ **Meu objetivo profissional do momento é atuar como desenvolvedor de software júnior, seja fullstack ou na área de front-end ou back-end**, mais alinhada com minhas preferências. Entre em contato:
 
 - 📫 E-mail **victorsgb@gmail.com**
-- ou fale comigo no [linkedIn!](https://www.linkedin.com/in/victorsgb/)
-- meu [CV](/20230331-victor-cv.pdf)
+- ou fale comigo no **[linkedIn](https://www.linkedin.com/in/victorsgb/)**
+- meu **[Curriculum Vitae](/20230331-victor-cv.pdf)**
 
 ---
 
@@ -82,9 +84,9 @@ Olá! 👋 Me chamo Victor Baptista!
 
 ## Projetos paralelos
 
-1. 👨‍💻 [Jogo do Autômato Celular](https://cellular-automata-beryl.vercel.app/)
+1. 👨‍💻 [Jogo do Autômato Celular](https://github.com/victorsgb/cellular-automata) ([Deploy](https://cellular-automata-beryl.vercel.app/)) - Status: **concluído** ✔️
 
-2. 👨‍💻 [FoodExplorer - desafio final da formação Explorer da Rocketseat](https://github.com/victorsgb/food-explorer-frontend) ([Demo](https://food-explorer-frontend.netlify.app/)) - Status: **concluído** ✔️
+2. 👨‍💻 [FoodExplorer - desafio final da formação Explorer da Rocketseat](https://github.com/victorsgb/food-explorer-frontend) ([Deploy](https://food-explorer-frontend.netlify.app/)) - Status: **concluído** ✔️
 
 ### Outras informações
 
@@ -94,17 +96,19 @@ Tenho familiaridade na aplicação de alguns conceitos intermediários como prog
 
 Venho de um background de bacharelado em Engenharia Civil, na qual sou especializado em Excel avançado, há mais de 10 anos usando a ferramenta. Já ministrei vários cursos na área, sejam acadêmicos, sejam profissionais. Meu primeiro contato com programação veio usando a linguagem Visual Basic For Applications, embutida no próprio Excel.
 
-- Me especializando no momento:
+Me especializando no momento:
 
-> 🌱 Next.js - documentação
-> 🌱 Node.js - programa Ignite, da Rocketseat
-> 🌱 Godot 4.0 - documentação e caçando material na internet, já que é um material muito recente
-> 📚 Eloquent JavaScript, por Marijn Haverbeke
-> 📚 ProGit, por Scott Chacon e Ben Straub
+- > 🌱 Next.js - documentação
+- > 🌱 Node.js - programa Ignite, da Rocketseat
+- > 📚 Eloquent JavaScript, por Marijn Haverbeke
+- > 📚 ProGit, por Scott Chacon e Ben Straub
 
 ### Linguagens e Ferramentas
 
 <p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="next" width="40" height="40"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
@@ -112,4 +116,4 @@ Venho de um background de bacharelado em Engenharia Civil, na qual sou especiali
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-</p>  
+</p>
