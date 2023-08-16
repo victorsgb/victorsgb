@@ -20,10 +20,9 @@ Sinta-se à vontade para conferir meu perfil no LinkedIn para obter uma visão d
 
 Aprimorando minhas habilidades atualmente:
 
-- > 🌱 React.js - Programa Ignite da Rocketseat
-- > 🌱 Node.js - Programa Ignite da Rocketseat
-- > 📚 Eloquent JavaScript, por Marijn Haverbeke
-- > 📚 ProGit, por Scott Chacon e Ben Straub
+- > 📚 React.js - [Documentação](https://react.dev/)
+- > 📚 Eloquent JavaScript, [por Marijn Haverbeke](https://eloquentjavascript.net/)
+- > 📚 ProGit, [por Scott Chacon e Ben Straub](https://git-scm.com/book/pt-br/v2)
 
 ## Minhas habilidades
 

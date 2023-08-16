@@ -21,10 +21,9 @@ Feel free to check out my LinkedIn profile for a detailed overview of my employm
 
 Further specializing at the moment:
 
-- > 🌱 React.js - Rocketseat's Ignite program
-- > 🌱 Node.js - Rocketseat's Ignite program
-- > 📚 Eloquent JavaScript by Marijn Haverbeke
-- > 📚 ProGit, by Scott Chacon and Ben Straub
+- > 📚 React.js - [Official Docs](https://react.dev/)
+- > 📚 Eloquent JavaScript, [by Marijn Haverbeke](https://eloquentjavascript.net/)
+- > 📚 ProGit, [by Scott Chacon & Ben Straub](https://git-scm.com/book/pt-br/v2)
 
 ## My stack
 
