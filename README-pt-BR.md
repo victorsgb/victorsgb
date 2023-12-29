@@ -1,8 +1,8 @@
 🔗 **[Read in English 🇺🇸](/README-pt-BR.md)**
 
-👋 Olá! Eu sou o Victor, um meticuloso desenvolvedor web júnior me especializando no desenvolvimento de aplicações web com React.js. Com minha formação em engenharia civil e ambiental, trago uma abordagem baseada em dados para o meu trabalho, otimizando a eficiência e automatizando processos. Adoro mergulhar em tecnologias de front-end e back-end, o que me permite criar aplicações web perfeitas e amigáveis ao usuário.
+👋 Olá! Eu sou o Victor, um meticuloso desenvolvedor web júnior me especializando no desenvolvimento de aplicações web com React.js. Com minha formação em engenharia civil e ambiental, trago uma abordagem baseada em dados para o meu trabalho. Adoro mergulhar em tecnologias de front-end e back-end, o que me permite criar aplicações web perfeitas e amigáveis ao usuário.
 
-🔥 Sabe de uma coisa? No fundo, eu sou um pioneiro! Eu abraço a mudança e me adapto rapidamente a novas tecnologias e conceitos. Estou sempre ansioso para aprender e atualizar minhas habilidades para estar à frente do jogo. Tenho facilidade em enxergar o panorama geral enquanto presto atenção meticulosa aos detalhes, o que me ajuda a entregar resultados de alta qualidade. Colaboração é comigo mesmo, e eu me destaco em ambientes de equipe multidisciplinares.
+🔥 Eu abraço a mudança e me adapto rapidamente a novas tecnologias e conceitos. Estou sempre ansioso para aprender e atualizar minhas habilidades para estar à frente do jogo. Tenho facilidade em enxergar o panorama geral enquanto presto atenção meticulosa aos detalhes, o que me ajuda a entregar resultados de alta qualidade. Tenho me destacado em ambientes de equipe multidisciplinares e me empolgo em trabalhar em equipe.
 
 💻 Então, se você está procurando alguém apaixonado pelo desenvolvimento web, com uma mentalidade meticulosa e que adora ultrapassar os limites do possível, então eu sou a pessoa certa. Vamos nos unir e criar projetos incríveis juntos!
 
@@ -14,13 +14,13 @@ Sinta-se à vontade para conferir meu perfil no LinkedIn para obter uma visão d
 - Confira meu **[Currículo](/VSGB-CV-pt-BR.pdf)**!
 
 ## Projetos paralelos
-1. 👨‍💻 [Jogo de Autômatos Celulares](https://github.com/victorsgb/cellular-automata) ([Hospedagem](https://cellular-automata-beryl.vercel.app/)) - Status: **concluído** ✔️
+1. 👨‍💻 [Jogo de Autômatos Celulares](https://github.com/victorsgb/cellular-automata) ([Deploy](https://cellular-automata-beryl.vercel.app/)) - Status: **concluído** ✔️
 
-2. 👨‍💻 [FoodExplorer - Desafio Final do Programa Explorer da Rocketseat](https://github.com/victorsgb/food-explorer-frontend) ([Hospedagem](https://food-explorer-frontend.netlify.app/)) - Status: **concluído** ✔️
+2. 👨‍💻 [FoodExplorer - Desafio Final do Programa Explorer da Rocketseat](https://github.com/victorsgb/food-explorer-frontend) ([Deploy](https://food-explorer-frontend.netlify.app/)) - Status: **concluído** ✔️
 
 Aprimorando minhas habilidades atualmente:
 
-- > 📚 React.js - [Documentação](https://react.dev/)
+- > 📚 React.js - [Nova documentação Beta](https://react.dev/)
 - > 📚 Eloquent JavaScript, [por Marijn Haverbeke](https://eloquentjavascript.net/)
 - > 📚 ProGit, [por Scott Chacon e Ben Straub](https://git-scm.com/book/pt-br/v2)
 
