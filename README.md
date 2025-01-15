@@ -1,17 +1,18 @@
 🔗 **[Ler em português 🇧🇷](/README-pt-BR.md)**
 
-👋 Hey there! I'm Victor, a meticulous junior web developer specializing in React.js web application development. With my background in civil and environmental engineering, I bring a data-driven approach to my work, optimizing efficiency and automating processes. I love diving into both front-end and back-end technologies, allowing me to create seamless and user-friendly web applications.
+👋 Hi! I'm Victor, a junior Fullstack developer with experience in React, Node.js, and React Native. With a background in civil and environmental engineering, I bring a data-driven approach and strong logic to my work. I really identified with software development, which is why I switched careers a few years ago.
 
-🔥 You know what? I'm a bit of a pioneer at heart! I embrace change and quickly adapt to new technologies and concepts. I'm always eager to learn and update my skills to stay ahead of the game. I have a knack for seeing the bigger picture while paying meticulous attention to detail, which helps me deliver high-quality results. Collaboration is my jam, and I thrive in multidisciplinary team environments.
-
-💻 So, if you're looking for someone who is passionate about web development, brings a meticulous mindset, and loves to push the boundaries of what's possible, then I'm your guy. Let's join forces and create some awesome projects together!
+🔥 Currently, I have some solo experience in software development, and I’m even more aware of how much there is still to learn. I’m eager to have the experience of working in a collaborative environment.
 
 ---
-Feel free to check out my LinkedIn profile for a detailed overview of my employment and experience: **[LinkedIn Profile](https://linkedin.com/in/victorsgb/)**
+Feel free to check out my LinkedIn profile for a detailed view of my professional experience: **[LinkedIn Profile](https://linkedin.com/in/victorsgb/)**
 
-- I will be pleased to hear from you and discuss any opportunities or collaborations.
+If you'd like a summary document, check out my **[Resume](/VSGB-CV-en-US.pdf)**.
 
-- Checkout my **[Curriculum Vitae](/VSGB-CV-en-US.pdf)**!
+## Professional projects
+1. 👨‍💻 [Website: Programa Água Doce Paraíba](https://aguadoce.seirh.pb.gov.br) - Status: **Completed** ✔️
+
+2. 👨‍💻 [Android App: DosaPadPB](https://play.google.com/store/apps/details?id=com.aguadoce.digitalParaiba) - Status: **Completed** ✔️
 
 ## Side projects
 
@@ -19,21 +20,24 @@ Feel free to check out my LinkedIn profile for a detailed overview of my employm
 
 2. 👨‍💻 [FoodExplorer - Ultimate Challenge of Rocketseat's Explorer Formation](https://github.com/victorsgb/food-explorer-frontend) ([Deploy](https://food-explorer-frontend.netlify.app/)) - Status: **finished** ✔️
 
-Further specializing at the moment:
+Currently improving my skills:
 
-- > 📚 React.js - [Official Docs](https://react.dev/)
-- > 📚 Eloquent JavaScript, [by Marijn Haverbeke](https://eloquentjavascript.net/)
-- > 📚 ProGit, [by Scott Chacon & Ben Straub](https://git-scm.com/book/pt-br/v2)
+- > 📚 Next.js [Official Docs](https://nextjs.org/docs)
+- > 📚 Jest [Official Docs](https://jestjs.io/docs/getting-started)
+- > 📚 Tailwind CSS [Official Docs](https://tailwindcss.com/docs/installation)
+- >  📚 Chart.js [Official Docs](https://www.chartjs.org/)
 
 ## My stack
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" alt="insomnia" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
 </p>
